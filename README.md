@@ -5,9 +5,6 @@ SmartThings IDoT Service Documentation
 * [Problem Domain](#focus)
 * [iF IDoT Architecture](#architecture)
 * [SmartThings IDP Project](#idp-project)
-* [SmartApp Web Service](#web-service)
-* [SmartThings IDoT Service](#idot-service)
-* [SmartThings IDoT Client](#idot-client)
 
 ## <a name="focus"></a>Problem Domain
 * cloud connected devices
